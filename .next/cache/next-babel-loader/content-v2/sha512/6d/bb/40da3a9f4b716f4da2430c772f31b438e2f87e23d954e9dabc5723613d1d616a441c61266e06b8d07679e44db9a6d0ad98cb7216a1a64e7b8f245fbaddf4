@@ -1,0 +1,1 @@
+{"ast":null,"code":"const HomePage = () => {};","map":{"version":3,"sources":["C:/Users/Igor/Desktop/Study/nextjs-project-2/pages/index.js"],"names":["HomePage"],"mappings":"AAAA,MAAMA,QAAQ,GAAG,MAAM,CAAE,CAAzB","sourcesContent":["const HomePage = () => {};\r\n"]},"metadata":{},"sourceType":"script"}
